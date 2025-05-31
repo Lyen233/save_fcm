@@ -9,4 +9,4 @@ _*拯 救 你 的 fcm ！*_
 
 *请配合fcmfix使用
 ## 适用范围
-仅测试过ColorOS15、Magisk、Magisk Alpha、KernelSU、SukiSU的使用，其他系统版本及管理器未知
+仅测试过ColorOS15下Magisk、Magisk Alpha、KernelSU、SukiSU的使用，其他系统版本及管理器未知
